@@ -1,1 +1,1 @@
-# https://nyaa.media/view/2172246
+# magnet:?xt=urn:btih:6c625a2f37b36c7cd46deba424baaac6c94344e5&dn=%5BToonsHub%5D%20Even%20the%20Student%20Council%20Has%20Its%20Holes%20S01E02%201080p%20UNCENSORED%20ADN%20WEB-DL%20AAC2.0%20H.264%20%28Seitokai%20ni%20mo%20Ana%20wa%20Aru%21%2C%20Multi-Subs%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce
