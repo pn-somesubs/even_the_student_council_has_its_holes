@@ -1,0 +1,510 @@
+[Script Info]
+Title: pn-SomeSubs - Even the Student Council Has Its Holes!
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.75,Default,,0,0,0,,{\fs50\an7\fe162\b\fad(400,400)\bord2\blur5\shad\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Yushi\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&} ! Velnoksi\N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} RassaX\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
+Dialogue: 0,0:00:01.75,0:00:04.29,Default,,0,0,0,,Pekâlâ! İşte hepinizin\Nbeklediği o gün geldi...
+Dialogue: 0,0:00:04.29,0:00:06.83,Default,,0,0,0,,Havuz temizliği!
+Dialogue: 0,0:00:08.45,0:00:10.25,Default,,0,0,0,,Gökyüzünde tek bir bulut bile yok!
+Dialogue: 0,0:00:10.25,0:00:11.41,Default,,0,0,0,,Ne kadar da harika bir gün!
+Dialogue: 0,0:00:11.41,0:00:12.41,Default,,0,0,0,,Kesinlikle!
+Dialogue: 0,0:00:12.41,0:00:14.83,Default,,0,0,0,,Bulut yok ve Japonya'dayız!
+Dialogue: 0,0:00:16.08,0:00:18.04,Default,,0,0,0,,Başkan gerçekten de çok heyecanlı.
+Dialogue: 0,0:00:18.04,0:00:21.20,Default,,0,0,0,,O sporu her zaman sevmiştir.
+Dialogue: 0,0:00:21.20,0:00:22.95,Default,,0,0,0,,Ne de olsa eskiden atletizm takımındaydı.
+Dialogue: 0,0:00:22.95,0:00:25.29,Default,,0,0,0,,Bu arada, Otori nerede?
+Dialogue: 0,0:00:26.12,0:00:28.08,Default,,0,0,0,,(- Hey! Bugün kulüp etkinliklerimiz var!)\N(- Battaniyem çok ağır. Gecikeceğim!)
+Dialogue: 0,0:02:01.00,0:02:04.00,Default,,0,0,0,,(3. Bölüm: Mayolarla Havuz Temizliği!)
+Dialogue: 0,0:02:04.16,0:02:06.08,Default,,0,0,0,,Hey, sen Ume olmalısın!
+Dialogue: 0,0:02:06.08,0:02:08.25,Default,,0,0,0,,Yardıma geldiğin için teşekkürler.
+Dialogue: 0,0:02:08.41,0:02:09.16,Default,,0,0,0,,Ne demek!
+Dialogue: 0,0:02:09.16,0:02:10.45,Default,,0,0,0,,Sen Yüzme Kulübü'nden misin...?
+Dialogue: 0,0:02:10.45,0:02:11.20,Default,,0,0,0,,Evet!
+Dialogue: 0,0:02:11.20,0:02:12.79,Default,,0,0,0,,(Kuroe Honma, Üçüncü Sınıf Lise Öğrencisi)\NYüzme Kulübü!
+Dialogue: 0,0:02:12.79,0:02:14.00,Default,,0,0,0,,Bu biraz gereksiz değil mi?
+Dialogue: 0,0:02:14.00,0:02:15.79,Default,,0,0,0,,Ben Kuroe Honma, üçüncü sınıfım.
+Dialogue: 0,0:02:15.79,0:02:19.41,Default,,0,0,0,,Bana Fujinari'nin Ton Balığı derler!
+Dialogue: 0,0:02:19.41,0:02:22.08,Default,,0,0,0,,Bana sadece Ton Balığı diyebilirsin!
+Dialogue: 0,0:02:22.08,0:02:24.16,Default,,0,0,0,,Şey, bu biraz...
+Dialogue: 0,0:02:24.16,0:02:25.62,Default,,0,0,0,,Hiç filtresi yok.
+Dialogue: 0,0:02:25.62,0:02:27.54,Default,,0,0,0,,Ve en iyi özelliğim
+Dialogue: 0,0:02:27.54,0:02:28.95,Default,,0,0,0,,işte tam şuradaki soleus kasım!
+Dialogue: 0,0:02:28.95,0:02:30.62,Default,,0,0,0,,Soleus kasları olan bir ton balığı!
+Dialogue: 0,0:02:30.62,0:02:32.33,Default,,0,0,0,,Anladın mı? İyi kelime oyunu, değil mi?
+Dialogue: 0,0:02:32.33,0:02:33.87,Default,,0,0,0,,Sakin! Bekle, bekle, bekle!
+Dialogue: 0,0:02:33.87,0:02:35.54,Default,,0,0,0,,Haddinden fazla şey gösteriyorsun!
+Dialogue: 0,0:02:37.66,0:02:39.95,Default,,0,0,0,,Pekâlâ, hadi içeri girelim.
+Dialogue: 0,0:02:40.12,0:02:42.83,Default,,0,0,0,,Adımlarına dikkat et. Oldukça kaygan!
+Dialogue: 0,0:02:43.83,0:02:45.95,Default,,0,0,0,,Evet, kayganmış!
+Dialogue: 0,0:02:46.29,0:02:47.87,Default,,0,0,0,,Evet...
+Dialogue: 0,0:02:47.87,0:02:50.75,Default,,0,0,0,,Ooh, her yer vıcık vıcık! Harika hissettiriyor!
+Dialogue: 0,0:02:52.33,0:02:53.25,Default,,0,0,0,,Ume?
+Dialogue: 0,0:02:53.25,0:02:54.16,Default,,0,0,0,,Efendim!
+Dialogue: 0,0:02:54.16,0:02:55.87,Default,,0,0,0,,Ben fırçalamaya başlıyorum!
+Dialogue: 0,0:02:58.79,0:03:00.00,Default,,0,0,0,,Sorun ne, Michinoku?
+Dialogue: 0,0:03:00.00,0:03:01.50,Default,,0,0,0,,Neden öyle titriyorsun?
+Dialogue: 0,0:03:01.50,0:03:02.83,Default,,0,0,0,,Dayanmaya çalışıyorum...
+Dialogue: 0,0:03:03.04,0:03:04.16,Default,,0,0,0,,Nasıl yani?
+Dialogue: 0,0:03:04.16,0:03:07.54,Default,,0,0,0,,Biraz bile kıpırdarsam...
+Dialogue: 0,0:03:12.83,0:03:14.00,Default,,0,0,0,,işte bu olur.
+Dialogue: 0,0:03:14.25,0:03:16.20,Default,,0,0,0,,Berbat bir denge.
+Dialogue: 0,0:03:20.25,0:03:23.08,Default,,0,0,0,,Ne yapıyorsun, Terui?
+Dialogue: 0,0:03:23.25,0:03:25.83,Default,,0,0,0,,Yusufçuk larvaları topluyorum.
+Dialogue: 0,0:03:25.83,0:03:27.25,Default,,0,0,0,,Bunlara naiad deniyor.
+Dialogue: 0,0:03:28.16,0:03:31.62,Default,,0,0,0,,Onları burada bırakırsak,\Nsuya kapılıp ölecekler.
+Dialogue: 0,0:03:31.79,0:03:34.16,Default,,0,0,0,,Bu çok üzücü olurdu.
+Dialogue: 0,0:03:34.16,0:03:35.66,Default,,0,0,0,,Terui...
+Dialogue: 0,0:03:35.83,0:03:37.16,Default,,0,0,0,,Çok naziksin.
+Dialogue: 0,0:03:37.16,0:03:39.16,Default,,0,0,0,,Onları evde büyütmek için mi alıyorsun?
+Dialogue: 0,0:03:39.16,0:03:40.75,Default,,0,0,0,,Ah, hayır.
+Dialogue: 0,0:03:40.75,0:03:42.62,Default,,0,0,0,,Onları tropikal balıklarıma yedireceğim.
+Dialogue: 0,0:03:42.91,0:03:45.54,Default,,0,0,0,,Hiç uğruna ölmelerinden iyidir, değil mi?
+Dialogue: 0,0:03:45.54,0:03:48.58,Default,,0,0,0,,Yani sadece nasıl öldükleri mi umurunda?
+Dialogue: 0,0:03:51.37,0:03:53.75,Default,,0,0,0,,Kir çıkmıyor.
+Dialogue: 0,0:03:54.37,0:03:55.75,Default,,0,0,0,,Bende deterjan var!
+Dialogue: 0,0:03:55.75,0:03:58.08,Default,,0,0,0,,(Havuz Temizleyici)\NCidden mi? Hayat kurtarıcısın!
+Dialogue: 0,0:03:58.75,0:04:01.16,Default,,0,0,0,,O zaman şuraya biraz dök!
+Dialogue: 0,0:04:03.13,0:04:03.57,Default,,0,0,0,,(Kayma Sesi!)
+Dialogue: 0,0:04:07.25,0:04:09.00,Default,,0,0,0,,Lütfen ölmeyin...
+Dialogue: 0,0:04:09.00,0:04:11.20,Default,,0,0,0,,(Tüm Yusufçuk Larvaları Yok Oldu)\NTüm Yusufçuk Larvaları Yok Oldu.
+Dialogue: 0,0:04:12.12,0:04:14.66,Default,,0,0,0,,Bu zor bir iş.
+Dialogue: 0,0:04:17.29,0:04:18.95,Default,,0,0,0,,İyi iş.
+Dialogue: 0,0:04:18.95,0:04:20.62,Default,,0,0,0,,Şu halinize bakın, harıl harıl çalışıyorsunuz!
+Dialogue: 0,0:04:20.62,0:04:22.58,Default,,0,0,0,,Aferin, aferin!
+Dialogue: 0,0:04:22.58,0:04:24.91,Default,,0,0,0,,Sanki mühim biriymiş gibi yine geç kaldın.
+Dialogue: 0,0:04:25.25,0:04:26.20,Default,,0,0,0,,Ume.
+Dialogue: 0,0:04:26.20,0:04:28.33,Default,,0,0,0,,Sen ve o fırça birbirinize çok yakışmışsınız!
+Dialogue: 0,0:04:28.33,0:04:29.25,Default,,0,0,0,,Ha?
+Dialogue: 0,0:04:29.25,0:04:30.62,Default,,0,0,0,,Okul mayosu giymiyor musun?
+Dialogue: 0,0:04:30.62,0:04:32.00,Default,,0,0,0,,Tabii ki hayır!
+Dialogue: 0,0:04:32.00,0:04:35.75,Default,,0,0,0,,Asla bir kız gibi giyinmeye niyetim yoktu!
+Dialogue: 0,0:04:35.75,0:04:36.66,Default,,0,0,0,,Gerçekten mi?
+Dialogue: 0,0:04:36.66,0:04:39.54,Default,,0,0,0,,Hey! Şu mayo fotoğrafındaki çocuk bu!
+Dialogue: 0,0:04:39.54,0:04:41.66,Default,,0,0,0,,Neden mayo giymiyorsun?
+Dialogue: 0,0:04:41.66,0:04:42.91,Default,,0,0,0,,Neden ki?
+Dialogue: 0,0:04:43.95,0:04:45.50,Default,,0,0,0,,Dediğim gibi,
+Dialogue: 0,0:04:45.50,0:04:48.00,Default,,0,0,0,,Arisu beni zorladı!
+Dialogue: 0,0:04:48.00,0:04:49.33,Default,,0,0,0,,Benim değildi!
+Dialogue: 0,0:04:49.33,0:04:51.83,Default,,0,0,0,,Öyle mi? Kusura bakma!
+Dialogue: 0,0:04:51.83,0:04:53.66,Default,,0,0,0,,O zaman benimkini ödünç alabilirsin!
+Dialogue: 0,0:04:53.66,0:04:55.00,Default,,0,0,0,,Kulübümüz beş parasız!
+Dialogue: 0,0:04:55.00,0:04:56.29,Default,,0,0,0,,Mesele o değil!
+Dialogue: 0,0:04:56.49,0:04:57.29,Default,,0,0,0,,(Neredeyse Bitti)
+Dialogue: 0,0:04:57.45,0:04:59.66,Default,,0,0,0,,(Neredeyse Bitti)\NDostum, mahvoldum.
+Dialogue: 0,0:04:59.66,0:05:02.58,Default,,0,0,0,,Son bir durulama ve işimiz bitiyor!
+Dialogue: 0,0:05:02.58,0:05:05.33,Default,,0,0,0,,Suyu ben açarım!
+Dialogue: 0,0:05:05.33,0:05:07.91,Default,,0,0,0,,Hep en kolay işleri seçiyor!
+Dialogue: 0,0:05:07.91,0:05:09.95,Default,,0,0,0,,Fırçalama işini biz hallederiz.
+Dialogue: 0,0:05:09.95,0:05:11.16,Default,,0,0,0,,Sen hortumu al.
+Dialogue: 0,0:05:13.00,0:05:14.66,Default,,0,0,0,,Ha? Su mu?
+Dialogue: 0,0:05:14.66,0:05:17.04,Default,,0,0,0,,Sanki bir şeyi unutuyormuşum gibi hissediyorum...
+Dialogue: 0,0:05:17.04,0:05:17.91,Default,,0,0,0,,Açıyorum!
+Dialogue: 0,0:05:24.87,0:05:27.29,Default,,0,0,0,,(Şimdi Hatırladı)\NAh, doğru ya! Hortum patlaktı!
+Dialogue: 0,0:05:27.29,0:05:28.08,Default,,0,0,0,,Hey!
+Dialogue: 0,0:05:28.08,0:05:29.87,Default,,0,0,0,,Su delicesine fışkırıyor!
+Dialogue: 0,0:05:29.87,0:05:31.25,Default,,0,0,0,,Otori! Suyu kapat!
+Dialogue: 0,0:05:31.25,0:05:34.54,Default,,0,0,0,,İşe yaramaz. Yüzünde o ukala ifadeyle\Nmüzik dinliyor.
+Dialogue: 0,0:05:37.20,0:05:38.70,Default,,0,0,0,,Lanet olsun...
+Dialogue: 0,0:05:38.70,0:05:40.54,Default,,0,0,0,,Birisi şu suyu kapatsın!
+Dialogue: 0,0:05:42.95,0:05:45.04,Default,,0,0,0,,Ah! Bekle...
+Dialogue: 0,0:05:45.29,0:05:46.58,Default,,0,0,0,,Özür dilerim, Mizunoe!
+Dialogue: 0,0:05:46.58,0:05:47.66,Default,,0,0,0,,Ben kapatırım.
+Dialogue: 0,0:05:47.66,0:05:49.37,Default,,0,0,0,,Hayır! Ben giderim!
+Dialogue: 0,0:05:49.37,0:05:50.45,Default,,0,0,0,,Affedersin!
+Dialogue: 0,0:05:50.45,0:05:51.87,Default,,0,0,0,,Neler oluyor?
+Dialogue: 0,0:05:51.87,0:05:53.83,Default,,0,0,0,,Suda oyun mu oynuyorsunuz?
+Dialogue: 0,0:05:54.00,0:05:56.00,Default,,0,0,0,,Otori İçin Günün Cezası:
+Dialogue: 0,0:05:56.00,0:05:57.33,Default,,0,0,0,,(Su Çarkı İşkencesi)\NSu Çarkı İşkencesi!
+Dialogue: 0,0:05:57.33,0:05:59.79,Default,,0,0,0,,En azından kulüp bütçesi toparlanıyor!
+Dialogue: 0,0:06:04.12,0:06:06.45,Default,,0,0,0,,Galiba biraz fazla ileri gittik.
+Dialogue: 0,0:06:06.45,0:06:08.70,Default,,0,0,0,,Görünüşe göre Tan şifayı kapmış.
+Dialogue: 0,0:06:08.70,0:06:10.50,Default,,0,0,0,,Aptalların asla hasta olmadığı söylenir,
+Dialogue: 0,0:06:10.50,0:06:12.70,Default,,0,0,0,,ama görünüşe göre çöpler hasta olabiliyormuş.
+Dialogue: 0,0:06:12.70,0:06:15.04,Default,,0,0,0,,Normalde kendim giderdim,
+Dialogue: 0,0:06:15.04,0:06:18.00,Default,,0,0,0,,ama artık senin gibi başka bir erkeğimiz olduğuna göre Ume,
+Dialogue: 0,0:06:18.00,0:06:20.95,Default,,0,0,0,,onu bir ziyaret edebilir misin?
+Dialogue: 0,0:06:21.25,0:06:22.29,Default,,0,0,0,,Üstelik,
+Dialogue: 0,0:06:22.29,0:06:24.08,Default,,0,0,0,,eminim senin de görmek istediğin bir şey vardır.
+Dialogue: 0,0:06:24.13,0:06:25.58,Default,,0,0,0,,(Öğrenci Konseyinde Ben De Varım! -- Tan Otori)\N(Size Hayaller ve Sevgi Getiriyorum)
+Dialogue: 0,0:06:25.58,0:06:26.79,Default,,0,0,0,,Neyi görmek?
+Dialogue: 0,0:06:28.89,0:06:30.67,Default,,0,0,0,,(DUR)
+Dialogue: 0,0:06:32.66,0:06:35.04,Default,,0,0,0,,Demek Otori burada yaşıyor.
+Dialogue: 0,0:06:35.25,0:06:38.66,Default,,0,0,0,,Onu çaresiz bir halde hayal etmek zor.
+Dialogue: 0,0:06:40.54,0:06:41.54,Default,,0,0,0,,Tamam.
+Dialogue: 0,0:06:46.45,0:06:48.00,Default,,0,0,0,,Geliyorum!
+Dialogue: 0,0:06:50.33,0:06:52.16,Default,,0,0,0,,Kim o?
+Dialogue: 0,0:06:54.04,0:06:55.00,Default,,0,0,0,,Selam.
+Dialogue: 0,0:06:55.00,0:06:57.25,Default,,0,0,0,,Ha? Ume?
+Dialogue: 0,0:06:57.25,0:06:58.45,Default,,0,0,0,,Evet.
+Dialogue: 0,0:06:58.45,0:07:00.41,Default,,0,0,0,,Bugün hasta olduğun için gelmediğini duydum.
+Dialogue: 0,0:07:00.41,0:07:02.12,Default,,0,0,0,,Öğrenci konseyi evraklarını getirdim.
+Dialogue: 0,0:07:02.12,0:07:03.37,Default,,0,0,0,,Yoksa...
+Dialogue: 0,0:07:04.37,0:07:06.08,Default,,0,0,0,,Beni o kadar çok mu özledin...?
+Dialogue: 0,0:07:07.45,0:07:09.20,Default,,0,0,0,,Tanrım, seninle ne yapacağım ben?
+Dialogue: 0,0:07:09.20,0:07:11.79,Default,,0,0,0,,- Bu kadar hastayken bile benimle uğraşıyor musun?\N- Cidden...
+Dialogue: 0,0:07:11.79,0:07:12.91,Default,,0,0,0,,Kendini zorlama.
+Dialogue: 0,0:07:14.87,0:07:18.33,Default,,0,0,0,,Ugh, aptal soğuk algınlığı mikropları...
+Dialogue: 0,0:07:18.33,0:07:20.91,Default,,0,0,0,,Onları bir görebilsem, hepsini pataklardım!
+Dialogue: 0,0:07:20.91,0:07:22.87,Default,,0,0,0,,Sadece uzan ve dinlen!
+Dialogue: 0,0:07:22.87,0:07:25.45,Default,,0,0,0,,Biraz lapa ye. Evde yaptım.
+Dialogue: 0,0:07:25.87,0:07:28.53,Default,,0,0,0,,Hastayken düzgün beslenmen gerek.
+Dialogue: 0,0:07:29.37,0:07:30.70,Default,,0,0,0,,Ume!
+Dialogue: 0,0:07:31.54,0:07:33.45,Default,,0,0,0,,İçine taze soğan koymadın, değil mi?
+Dialogue: 0,0:07:33.45,0:07:37.20,Default,,0,0,0,,Benim hassas damağım acı hiçbir şeye dayanamaz.
+Dialogue: 0,0:07:37.87,0:07:39.33,Default,,0,0,0,,Sıcak! Sıcak! Sıcak!
+Dialogue: 0,0:07:42.58,0:07:45.83,Default,,0,0,0,,Hâlâ epey enerjisi var.
+Dialogue: 0,0:07:46.08,0:07:48.00,Default,,0,0,0,,Ume...
+Dialogue: 0,0:07:48.37,0:07:49.66,Default,,0,0,0,,Ne oldu?
+Dialogue: 0,0:07:49.66,0:07:50.79,Default,,0,0,0,,Şey...
+Dialogue: 0,0:07:51.08,0:07:53.37,Default,,0,0,0,,Sorun ne? Daha mı kötü hissediyorsun?
+Dialogue: 0,0:07:53.69,0:07:54.66,Default,,0,0,0,,(Sürtünme, Sürtünme)
+Dialogue: 0,0:07:55.45,0:07:58.45,Default,,0,0,0,,Soğuk algınlığı mikroplarımı her yerine bulaştırdım!
+Dialogue: 0,0:07:58.45,0:07:59.75,Default,,0,0,0,,(Gıcık Olmuş)
+Dialogue: 0,0:07:59.75,0:08:02.45,Default,,0,0,0,,Ne yapıyorsun ya? Hastayım ben, biliyorsun değil mi!
+Dialogue: 0,0:08:02.45,0:08:03.83,Default,,0,0,0,,O zaman uslu dur ve dinlen.
+Dialogue: 0,0:08:04.29,0:08:07.00,Default,,0,0,0,,Kıpırdayamıyorum!
+Dialogue: 0,0:08:07.00,0:08:09.54,Default,,0,0,0,,Popom kaşınıyor, Ume!
+Dialogue: 0,0:08:09.54,0:08:11.12,Default,,0,0,0,,Görünüşe göre çok daha iyi hissediyor.
+Dialogue: 0,0:08:11.12,0:08:12.58,Default,,0,0,0,,Belki de artık eve gitmeliyim.
+Dialogue: 0,0:08:13.41,0:08:14.75,Default,,0,0,0,,Ama...
+Dialogue: 0,0:08:15.75,0:08:18.87,Default,,0,0,0,,Bir saniye, yalnız mı yaşıyorsun?
+Dialogue: 0,0:08:19.08,0:08:20.29,Default,,0,0,0,,Evet.
+Dialogue: 0,0:08:20.75,0:08:23.66,Default,,0,0,0,,Ne de olsa anne babam yok.
+Dialogue: 0,0:08:23.66,0:08:25.66,Default,,0,0,0,,Ne? Neden...?
+Dialogue: 0,0:08:25.66,0:08:29.33,Default,,0,0,0,,Ailevi meseleler diyelim...
+Dialogue: 0,0:08:29.50,0:08:31.91,Default,,0,0,0,,Ben daha ne olduğunu anlamadan babam gitmişti.
+Dialogue: 0,0:08:31.91,0:08:34.70,Default,,0,0,0,,Annem de eve hiç gelmez.
+Dialogue: 0,0:08:34.70,0:08:35.95,Default,,0,0,0,,Yani...
+Dialogue: 0,0:08:36.91,0:08:39.33,Default,,0,0,0,,Bugün beni yokladığın için teşekkürler.
+Dialogue: 0,0:08:41.00,0:08:42.33,Default,,0,0,0,,Şaka yaptım!
+Dialogue: 0,0:08:42.33,0:08:43.50,Default,,0,0,0,,Biliyorsun, ben yenilmezim!
+Dialogue: 0,0:08:43.50,0:08:45.29,Default,,0,0,0,,Kendi başıma her şeyin üstesinden gelebilirim!
+Dialogue: 0,0:08:45.29,0:08:46.33,Default,,0,0,0,,Bu soğuk algınlığı da çabucak geçecek...
+Dialogue: 0,0:08:46.33,0:08:47.45,Default,,0,0,0,,Otori.
+Dialogue: 0,0:08:48.33,0:08:51.66,Default,,0,0,0,,Hiç doktora gittin mi?
+Dialogue: 0,0:08:51.87,0:08:52.58,Default,,0,0,0,,Hayır...
+Dialogue: 0,0:08:52.58,0:08:53.75,Default,,0,0,0,,Tahmin etmiştim.
+Dialogue: 0,0:08:54.04,0:08:56.16,Default,,0,0,0,,Bunu böyle tedavisiz bırakamazsın!
+Dialogue: 0,0:08:56.16,0:08:58.70,Default,,0,0,0,,Bahse girerim ilaçlarını da içmemişsindir.
+Dialogue: 0,0:08:58.91,0:09:01.00,Default,,0,0,0,,Şu rafta duruyor.
+Dialogue: 0,0:09:01.00,0:09:02.25,Default,,0,0,0,,Ama...
+Dialogue: 0,0:09:02.25,0:09:03.25,Default,,0,0,0,,Bu mu?
+Dialogue: 0,0:09:03.25,0:09:04.89,Default,,0,0,0,,Otori, seni iyileştireceğim.
+Dialogue: 0,0:09:04.89,0:09:06.20,Default,,0,0,0,,(Oronaru, Her Dozda 2 Tablet)\NOtori, seni iyileştireceğim.
+Dialogue: 0,0:09:07.20,0:09:09.33,Default,,0,0,0,,(Baş Ağrısı, Ateş, Adet Sancıları)\NOnlar fitil...
+Dialogue: 0,0:09:10.66,0:09:11.58,Default,,0,0,0,,Otori.
+Dialogue: 0,0:09:12.33,0:09:13.66,Default,,0,0,0,,Pantolonunu çıkar.
+Dialogue: 0,0:09:14.08,0:09:14.95,Default,,0,0,0,,Bekle! Ciddi değilsin...
+Dialogue: 0,0:09:14.95,0:09:16.87,Default,,0,0,0,,Kendim de yapabilirim!
+Dialogue: 0,0:09:16.87,0:09:18.00,Default,,0,0,0,,Hayır.
+Dialogue: 0,0:09:18.00,0:09:20.58,Default,,0,0,0,,Büyük ihtimalle yapmış gibi davranırsın.
+Dialogue: 0,0:09:21.37,0:09:22.70,Default,,0,0,0,,Bırak ben halledeyim.
+Dialogue: 0,0:09:24.16,0:09:25.50,Default,,0,0,0,,Ama...
+Dialogue: 0,0:09:26.91,0:09:28.45,Default,,0,0,0,,Bu çok utanç verici!
+Dialogue: 0,0:09:30.37,0:09:32.25,Default,,0,0,0,,Bunda utanılacak bir şey yok!
+Dialogue: 0,0:09:32.41,0:09:34.79,Default,,0,0,0,,Bağırarak gerginliğini bastırmaya çalışıyor.
+Dialogue: 0,0:09:37.83,0:09:40.62,Default,,0,0,0,,Pekâlâ, başlıyorum.
+Dialogue: 0,0:09:40.91,0:09:41.91,Default,,0,0,0,,Tamam...
+Dialogue: 0,0:09:49.29,0:09:50.41,Default,,0,0,0,,Ah!
+Dialogue: 0,0:09:50.79,0:09:51.79,Default,,0,0,0,,Özür dilerim!
+Dialogue: 0,0:09:52.33,0:09:53.75,Default,,0,0,0,,Ben iyiyim.
+Dialogue: 0,0:09:55.70,0:09:57.70,Default,,0,0,0,,Devam et.
+Dialogue: 0,0:09:57.90,0:09:59.50,Default,,0,0,0,,(İnsanlığımı Yitirirken, Naomi, Bir Maskenin İtirafları)\N(Botchan, Altın Köşk Tapınağı)
+Dialogue: 0,0:09:59.58,0:10:03.13,Default,,0,0,0,,Mizunoe tamamen kurgu dünyasında kaybolmuş.
+Dialogue: 0,0:10:06.91,0:10:08.87,Default,,0,0,0,,Çok yoruldum...
+Dialogue: 0,0:10:08.87,0:10:11.37,Default,,0,0,0,,Kalbim patlayacak sandım!
+Dialogue: 0,0:10:11.37,0:10:12.66,Default,,0,0,0,,İşte. Girdi.
+Dialogue: 0,0:10:13.41,0:10:17.25,Default,,0,0,0,,En azından Otori sakinleşmiş görünüyor.
+Dialogue: 0,0:10:19.37,0:10:21.08,Default,,0,0,0,,Ume...
+Dialogue: 0,0:10:26.12,0:10:27.62,Default,,0,0,0,,Gitsem iyi olacak.
+Dialogue: 0,0:10:27.79,0:10:29.79,Default,,0,0,0,,İlacını buraya bırakıyorum...
+Dialogue: 0,0:10:31.04,0:10:33.41,Default,,0,0,0,,Fitil yerde mi duruyor?
+Dialogue: 0,0:10:33.83,0:10:34.83,Default,,0,0,0,,Bir saniye...
+Dialogue: 0,0:10:35.45,0:10:38.37,Default,,0,0,0,,O zaman ben demin oraya ne koydum?
+Dialogue: 0,0:10:38.37,0:10:40.83,Default,,0,0,0,,(Taze Nane Tabletleri! Ferah Bir Nefes İçin!)
+Dialogue: 0,0:10:44.66,0:10:47.41,Default,,0,0,0,,Popom neden ısınıyor?
+Dialogue: 0,0:10:47.41,0:10:48.45,Default,,0,0,0,,Otori!
+Dialogue: 0,0:10:49.91,0:10:51.29,Default,,0,0,0,,Bana poponu göster!
+Dialogue: 0,0:10:52.41,0:10:53.95,Default,,0,0,0,,Ne?!
+Dialogue: 0,0:10:53.95,0:10:54.54,Default,,0,0,0,,Ume!
+Dialogue: 0,0:10:54.54,0:10:56.91,Default,,0,0,0,,Ha? Çok sıcak!
+Dialogue: 0,0:10:56.91,0:10:57.91,Default,,0,0,0,,Popom yanıyor!
+Dialogue: 0,0:10:57.91,0:10:58.75,Default,,0,0,0,,Çok sıcak!
+Dialogue: 0,0:10:58.75,0:10:59.83,Default,,0,0,0,,Popom alev alev!
+Dialogue: 0,0:10:59.83,0:11:01.58,Default,,0,0,0,,Özür dilerim! Hepsi benim suçum!
+Dialogue: 0,0:11:01.58,0:11:03.62,Default,,0,0,0,,Şimdi acele et ve poponu bana göster!
+Dialogue: 0,0:11:05.04,0:11:05.95,Default,,0,0,0,,Ertesi gün,
+Dialogue: 0,0:11:05.95,0:11:08.04,Default,,0,0,0,,Mizunoe de şifayı kaptı.
+Dialogue: 0,0:11:08.04,0:11:11.23,Default,,0,0,0,,(Ertesi Hafta)\NSelam. Şimdi daha iyi misin?
+Dialogue: 0,0:11:11.91,0:11:13.16,Default,,0,0,0,,Aşağı yukarı.
+Dialogue: 0,0:11:30.79,0:11:33.79,Default,,0,0,0,,(3. Bölüm: Aferin Sana!)
+Dialogue: 0,0:11:33.79,0:11:33.80,Default,,0,0,0,,Pati ver...
+Dialogue: 0,0:11:33.80,0:11:36.66,Default,,0,0,0,,(Öğrenci Konseyi Odası)\NPati ver...
+Dialogue: 0,0:11:36.66,0:11:36.71,Default,,0,0,0,,- Hav!\N- Pati ver...\N(Öğrenci Konseyi Odası)
+Dialogue: 0,0:11:36.71,0:11:37.70,Default,,0,0,0,,- Hav!\N- Pati ver...
+Dialogue: 0,0:11:37.73,0:11:39.48,Default,,0,0,0,,(Matematik I)
+Dialogue: 0,0:11:39.66,0:11:41.12,Default,,0,0,0,,Sorun ne, Mizunoe?
+Dialogue: 0,0:11:41.12,0:11:42.79,Default,,0,0,0,,Neden aniden iç çektin?
+Dialogue: 0,0:11:43.29,0:11:47.00,Default,,0,0,0,,Bir şey yok. Sadece\Nbize bunu tekrar yaptırıyorlar.
+Dialogue: 0,0:11:47.00,0:11:48.54,Default,,0,0,0,,(Saçmalık!)\NDönem sınavları!
+Dialogue: 0,0:11:48.70,0:11:51.79,Default,,0,0,0,,Eh, tabii ki! Onlara boşuna\Ndönem sınavı denmiyor!
+Dialogue: 0,0:11:51.79,0:11:53.37,Default,,0,0,0,,Düşününce, Mizunoe,
+Dialogue: 0,0:11:53.37,0:11:55.70,Default,,0,0,0,,matematik ve fen bilimlerinde pek iyi değilsin, değil mi?
+Dialogue: 0,0:11:55.70,0:11:57.45,Default,,0,0,0,,Aynen öyle.
+Dialogue: 0,0:11:57.45,0:11:59.66,Default,,0,0,0,,Sanki duvara konuşuyor gibiyim...
+Dialogue: 0,0:11:59.66,0:12:00.91,Default,,0,0,0,,Hayır, öküze vaaz vermek gibi...
+Dialogue: 0,0:12:00.91,0:12:04.08,Default,,0,0,0,,Hayır, öküze müzik dinletmek gibi...
+Dialogue: 0,0:12:04.08,0:12:06.41,Default,,0,0,0,,Kelimelerinle bu kadar süslü olmana gerek yok.
+Dialogue: 0,0:12:06.41,0:12:08.83,Default,,0,0,0,,Ama Japonca dersinde çok iyisin.
+Dialogue: 0,0:12:09.25,0:12:11.91,Default,,0,0,0,,Diğer derslerde ne kadar kötüsün?
+Dialogue: 0,0:12:11.91,0:12:13.50,Default,,0,0,0,,Bakalm...
+Dialogue: 0,0:12:14.12,0:12:18.20,Default,,0,0,0,,Hangi dersler fen bilimlerine giriyordu?
+Dialogue: 0,0:12:18.20,0:12:19.79,Default,,0,0,0,,Matematik?
+Dialogue: 0,0:12:19.79,0:12:21.25,Default,,0,0,0,,Kimya?
+Dialogue: 0,0:12:21.25,0:12:22.62,Default,,0,0,0,,Oradan mı başlıyorsun?!
+Dialogue: 0,0:12:22.62,0:12:24.00,Default,,0,0,0,,Özür dilerim.
+Dialogue: 0,0:12:24.00,0:12:26.66,Default,,0,0,0,,Onlarda kötü olmamdan ziyade,\Nnefret ediyorum diyelim.
+Dialogue: 0,0:12:26.66,0:12:29.41,Default,,0,0,0,,Ne kadar çalışırsam çalışayım, aklımda hiçbir şey kalmıyor.
+Dialogue: 0,0:12:29.41,0:12:30.95,Default,,0,0,0,,Anlıyorum.
+Dialogue: 0,0:12:31.25,0:12:33.20,Default,,0,0,0,,Pekâlâ. Ne yapacağımı biliyorum.
+Dialogue: 0,0:12:34.16,0:12:36.12,Default,,0,0,0,,Sınavda neler çıkacak?
+Dialogue: 0,0:12:36.37,0:12:39.12,Default,,0,0,0,,Ben aslında matematik ve feni severim.
+Dialogue: 0,0:12:39.12,0:12:42.12,Default,,0,0,0,,Belki beraber çalışmak\Nonlardan daha az nefret etmeni sağlar.
+Dialogue: 0,0:12:42.12,0:12:43.58,Default,,0,0,0,,Başkan!
+Dialogue: 0,0:12:44.29,0:12:47.37,Default,,0,0,0,,Bu arada, sizin notlarınız nasıl?
+Dialogue: 0,0:12:47.37,0:12:49.08,Default,,0,0,0,,Sormamın bir sakıncası yoksa.
+Dialogue: 0,0:12:50.75,0:12:52.37,Default,,0,0,0,,Şey...
+Dialogue: 0,0:12:52.58,0:12:56.16,Default,,0,0,0,,Arada sırada dönem birincisi oluyorum.
+Dialogue: 0,0:12:56.16,0:12:57.66,Default,,0,0,0,,Cidden mi?!
+Dialogue: 0,0:12:57.66,0:13:00.29,Default,,0,0,0,,Ama her bir ders için\Nsadece beşinci civarındayım.
+Dialogue: 0,0:13:00.29,0:13:01.79,Default,,0,0,0,,Her işten anlarım ama hiçbirinin ustası değilim.
+Dialogue: 0,0:13:01.79,0:13:04.04,Default,,0,0,0,,Bu yine de inanılmaz!
+Dialogue: 0,0:13:04.04,0:13:06.41,Default,,0,0,0,,Üstelik onca öğrenci konseyi işine rağmen!
+Dialogue: 0,0:13:06.41,0:13:09.25,Default,,0,0,0,,Siz harikasınız, Başkan!
+Dialogue: 0,0:13:09.25,0:13:10.91,Default,,0,0,0,,Her ne kadar gizli bir sapı... Boş verin.
+Dialogue: 0,0:13:10.91,0:13:13.45,Default,,0,0,0,,Kotobuki beklenmedik bir puan alıyor!
+Dialogue: 0,0:13:13.45,0:13:15.29,Default,,0,0,0,,Hadi başlayalım.
+Dialogue: 0,0:13:15.29,0:13:16.20,Default,,0,0,0,,Doğru!
+Dialogue: 0,0:13:17.12,0:13:19.20,Default,,0,0,0,,Ders mi çalışıyoruz?
+Dialogue: 0,0:13:19.45,0:13:21.66,Default,,0,0,0,,Biz de el atalım.
+Dialogue: 0,0:13:21.66,0:13:24.66,Default,,0,0,0,,Ne?! Şimdi Ume'ye mi bakıcılık yapacağız?!
+Dialogue: 0,0:13:24.66,0:13:26.62,Default,,0,0,0,,Harika. Figüranlar da geldi.
+Dialogue: 0,0:13:26.83,0:13:28.91,Default,,0,0,0,,Ne de olsa sınavlar yaklaşıyor.
+Dialogue: 0,0:13:28.91,0:13:32.79,Default,,0,0,0,,Ben de fende ne durumda olduğunu merak ediyordum.
+Dialogue: 0,0:13:33.08,0:13:34.41,Default,,0,0,0,,Biliyor muydun?
+Dialogue: 0,0:13:34.41,0:13:35.70,Default,,0,0,0,,Ne kadar utanç verici...
+Dialogue: 0,0:13:35.70,0:13:38.00,Default,,0,0,0,,Geçen sefer fen bilgisinden 13,
+Dialogue: 0,0:13:38.00,0:13:40.83,Default,,0,0,0,,matematikten 4 ve biyolojiden 18 almıştın.
+Dialogue: 0,0:13:41.37,0:13:44.79,Default,,0,0,0,,En azından bu sefer sınıfta kalmamaya çalışalım.
+Dialogue: 0,0:13:44.79,0:13:46.41,Default,,0,0,0,,Benim hakkımda çok fazla şey biliyorsun!
+Dialogue: 0,0:13:46.75,0:13:50.37,Default,,0,0,0,,O zaman biyoloji ve kimya bende.
+Dialogue: 0,0:13:50.87,0:13:52.45,Default,,0,0,0,,Gerçekten mi?
+Dialogue: 0,0:13:52.45,0:13:54.95,Default,,0,0,0,,(Temel Biyoloji) (Temel Kimya)\Nİster inan ister inanma, onlarda oldukça iyiyimdir.
+Dialogue: 0,0:13:54.95,0:13:58.00,Default,,0,0,0,,Hatta IBO'dan ödülüm bile var.
+Dialogue: 0,0:13:58.00,0:13:59.41,Default,,0,0,0,,O bir canavar!
+Dialogue: 0,0:13:59.70,0:14:00.87,Default,,0,0,0,,IBO, Uluslararası Biyoloji Olimpiyatlarıdır,
+Dialogue: 0,0:14:00.87,0:14:04.87,Default,,0,0,0,,lise öğrencileri için dünya çapında bir yarışma.
+Dialogue: 0,0:14:04.87,0:14:08.45,Default,,0,0,0,,Aslında bu tam da senden beklenecek bir şey...
+Dialogue: 0,0:14:08.66,0:14:10.41,Default,,0,0,0,,Tam da hayal ettiğin gibi mi...?
+Dialogue: 0,0:14:11.79,0:14:13.54,Default,,0,0,0,,Teşekkürler!
+Dialogue: 0,0:14:13.54,0:14:15.62,Default,,0,0,0,,Biliyorsun ki, ben canlıları çok severim.
+Dialogue: 0,0:14:15.62,0:14:17.75,Default,,0,0,0,,Şey, doğru.
+Dialogue: 0,0:14:17.75,0:14:19.16,Default,,0,0,0,,Nasıl rahatladım...
+Dialogue: 0,0:14:19.41,0:14:22.12,Default,,0,0,0,,Demek sınıf tekrarına bu kadar yakındın, Ume?
+Dialogue: 0,0:14:22.12,0:14:24.45,Default,,0,0,0,,Bir de gözlük takıyorsun! Çok komik!
+Dialogue: 0,0:14:24.45,0:14:25.66,Default,,0,0,0,,Çeneni kapayacak mısın?!
+Dialogue: 0,0:14:25.95,0:14:27.87,Default,,0,0,0,,Sen daha ortaokuldasın, değil mi?
+Dialogue: 0,0:14:27.87,0:14:30.29,Default,,0,0,0,,Lise sınavları zordur!
+Dialogue: 0,0:14:30.29,0:14:31.66,Default,,0,0,0,,Git başka yerde oyna, ufaklık.
+Dialogue: 0,0:14:31.66,0:14:32.37,Default,,0,0,0,,Şey, aslında,
+Dialogue: 0,0:14:32.62,0:14:36.04,Default,,0,0,0,,Tan çoktan üniversite seviyesinde bilgisayar\Nbilimleri ve fizik çalışıyor.
+Dialogue: 0,0:14:36.04,0:14:37.95,Default,,0,0,0,,Hatta yazılım bile geliştiriyor.
+Dialogue: 0,0:14:37.95,0:14:39.08,Default,,0,0,0,,Ne?!
+Dialogue: 0,0:14:39.87,0:14:42.58,Default,,0,0,0,,Şimdi ufaklık kimmiş?
+Dialogue: 0,0:14:42.58,0:14:45.20,Default,,0,0,0,,Kafanı kazıt ve sana öğretmem için yalvar!
+Dialogue: 0,0:14:45.20,0:14:47.08,Default,,0,0,0,,"Başını eğ" demek istedin herhalde...
+Dialogue: 0,0:14:47.41,0:14:49.62,Default,,0,0,0,,Bu kadarı da fazla!
+Dialogue: 0,0:14:49.62,0:14:54.20,Default,,0,0,0,,Neyse, görünüşe göre fen kısmı halloldu.
+Dialogue: 0,0:14:54.45,0:14:56.00,Default,,0,0,0,,Ama matematik...
+Dialogue: 0,0:14:56.00,0:14:57.87,Default,,0,0,0,,Şey...
+Dialogue: 0,0:14:57.87,0:14:59.25,Default,,0,0,0,,Matematik mi?
+Dialogue: 0,0:14:59.41,0:15:01.41,Default,,0,0,0,,Ben matematikte iyiyim.
+Dialogue: 0,0:15:02.33,0:15:05.29,Default,,0,0,0,,Sen mi, Michinoku...?
+Dialogue: 0,0:15:05.29,0:15:06.37,Default,,0,0,0,,Evet.
+Dialogue: 0,0:15:06.54,0:15:08.33,Default,,0,0,0,,Tahmin etmezdin ama o,
+Dialogue: 0,0:15:08.33,0:15:11.04,Default,,0,0,0,,matematik yeteneği sayesinde tam burslu okuyor.
+Dialogue: 0,0:15:11.04,0:15:12.83,Default,,0,0,0,,Bekle, cidden mi?!
+Dialogue: 0,0:15:12.83,0:15:16.37,Default,,0,0,0,,O zaman ben endişelenirken\Nneden söylemedin?
+Dialogue: 0,0:15:16.37,0:15:17.50,Default,,0,0,0,,Özür dilerim.
+Dialogue: 0,0:15:17.70,0:15:19.20,Default,,0,0,0,,O sırada acilen tuvalete gitmem gerekiyordu.
+Dialogue: 0,0:15:19.20,0:15:20.91,Default,,0,0,0,,Bunu daha önce söylemeliydin!
+Dialogue: 0,0:15:20.99,0:15:22.49,Default,,0,0,0,,(Kimya, Biyoloji, Matematik)\NDemek ki
+Dialogue: 0,0:15:22.52,0:15:25.38,Default,,0,0,0,,(Bilgisayar Bilimi ve Fizik, Hepsi Bir Arada)\Nen başarılı tüm sayısal öğrencileri burada!
+Dialogue: 0,0:15:25.66,0:15:27.16,Default,,0,0,0,,Öyle görünüyor.
+Dialogue: 0,0:15:27.33,0:15:30.04,Default,,0,0,0,,Acaba Bayan Hiratsuka tüm bunların olacağını\Nbaşından beri biliyordu da,
+Dialogue: 0,0:15:30.04,0:15:31.66,Default,,0,0,0,,beni bu yüzden mi öğrenci konseyine koydu?
+Dialogue: 0,0:15:31.71,0:15:33.11,Default,,0,0,0,,Mizunoe!
+Dialogue: 0,0:15:33.29,0:15:35.62,Default,,0,0,0,,- Öyle görünmeyebilir ama,\N- Bana 100 yen borç ver!
+Dialogue: 0,0:15:35.62,0:15:38.04,Default,,0,0,0,,düşündüğünden çok daha fazlasını fark ediyor.
+Dialogue: 0,0:15:38.54,0:15:41.12,Default,,0,0,0,,Öyleyse hepimiz başlayalım mı?
+Dialogue: 0,0:15:41.12,0:15:43.54,Default,,0,0,0,,(Temel Biyoloji)\NEvet! Yardımınız için teşekkürler!
+Dialogue: 0,0:15:45.50,0:15:47.37,Default,,0,0,0,,Bu parçalı pürüzsüz,
+Dialogue: 0,0:15:47.37,0:15:51.79,Default,,0,0,0,,dolayısıyla Fourier serisi yakınsıyor...\Nve sınır koşulları da...
+Dialogue: 0,0:15:51.79,0:15:53.79,Default,,0,0,0,,Tek kelime bile anlamıyorum.
+Dialogue: 0,0:15:54.04,0:15:55.08,Default,,0,0,0,,Oynayarak...
+Dialogue: 0,0:15:55.08,0:15:57.54,Default,,0,0,0,,- Başkan daha önce hiç olmadığı kadar somurtuyor!\N- Oynayarak...
+Dialogue: 0,0:15:57.79,0:15:59.58,Default,,0,0,0,,Hayır, sorun yok...
+Dialogue: 0,0:15:59.58,0:16:02.33,Default,,0,0,0,,Nasıl olsa ben daha çok her telden çalan biriyim...
+Dialogue: 0,0:16:02.33,0:16:03.70,Default,,0,0,0,,Hayır, hayır, hayır!
+Dialogue: 0,0:16:04.83,0:16:06.75,Default,,0,0,0,,Durun, bir tane var!
+Dialogue: 0,0:16:06.75,0:16:09.29,Default,,0,0,0,,Sizin birinci olduğunuz bir ders, Başkan!
+Dialogue: 0,0:16:09.75,0:16:12.25,Default,,0,0,0,,Lütfen bana onu öğretin!
+Dialogue: 0,0:16:12.25,0:16:14.79,Default,,0,0,0,,Hani şu...
+Dialogue: 0,0:16:15.00,0:16:16.54,Default,,0,0,0,,Sağlık ve Beden Eğitimi.
+Dialogue: 0,0:16:18.91,0:16:21.62,Default,,0,0,0,,Onda o kadar da iyi değilim...
+Dialogue: 0,0:16:21.62,0:16:23.91,Default,,0,0,0,,Mütevazı olmanıza gerek yok!
+Dialogue: 0,0:16:23.91,0:16:26.58,Default,,0,0,0,,Günlük yaşamın bir parçası olan\Nönemli bir konudur.
+Dialogue: 0,0:16:26.58,0:16:28.45,Default,,0,0,0,,Ume onda da pek iyi değildir.
+Dialogue: 0,0:16:28.45,0:16:30.62,Default,,0,0,0,,(Lise Sağlık ve Beden Eğitimi)\NNeden ona şöyle düzgün bir ders vermiyorsun?
+Dialogue: 0,0:16:31.79,0:16:34.45,Default,,0,0,0,,Şey... ııı...
+Dialogue: 0,0:16:37.76,0:16:38.50,Default,,0,0,0,,(Mırıldanma)
+Dialogue: 0,0:16:38.50,0:16:38.91,Default,,0,0,0,,Kızlar...\N(Mırıldanma)
+Dialogue: 0,0:16:38.91,0:16:41.04,Default,,0,0,0,,Kızlar...
+Dialogue: 0,0:16:42.37,0:16:43.66,Default,,0,0,0,,Bu kadarı yeterli, Başkan.
+Dialogue: 0,0:16:43.66,0:16:45.12,Default,,0,0,0,,Kendinizi zorlamanıza gerek yok.
+Dialogue: 0,0:16:45.54,0:16:47.08,Default,,0,0,0,,Sizi baş başa bırakıyoruz o zaman.
+Dialogue: 0,0:16:47.08,0:16:49.58,Default,,0,0,0,,Bunun için üzgünüm, Başkan.
+Dialogue: 0,0:16:51.45,0:16:55.33,Default,,0,0,0,,Sonunda her şeyi ona Kotobuki öğretti.
+Dialogue: 0,0:16:55.49,0:16:56.20,Default,,0,0,0,,(Ertesi Gün)
+Dialogue: 0,0:16:56.20,0:16:59.16,Default,,0,0,0,,Üst üste iki gün bayağı yorucu.\N(Ertesi Gün)
+Dialogue: 0,0:16:59.37,0:17:03.45,Default,,0,0,0,,Mizunoe okula yakın bir yerde yalnız yaşıyor.
+Dialogue: 0,0:17:03.75,0:17:06.62,Default,,0,0,0,,(DUR)\NAma başkan harika bir öğretmen.
+Dialogue: 0,0:17:06.62,0:17:09.20,Default,,0,0,0,,Bugün süpermarketteki indirime bile yetiştim!
+Dialogue: 0,0:17:09.20,0:17:10.29,Default,,0,0,0,,Güzel!
+Dialogue: 0,0:17:12.04,0:17:14.54,Default,,0,0,0,,Belki biraz ev yapımı graten yaparım.\NUzun zaman olmuştu.
+Dialogue: 0,0:17:17.25,0:17:18.33,Default,,0,0,0,,Hey!
+Dialogue: 0,0:17:18.58,0:17:19.95,Default,,0,0,0,,Abla?!
+Dialogue: 0,0:17:19.95,0:17:21.16,Default,,0,0,0,,Ayrıca o benim iç çamaşırım!
+Dialogue: 0,0:17:21.16,0:17:23.45,Default,,0,0,0,,Doğru bildin. Ablan geldi!
+Dialogue: 0,0:17:23.87,0:17:26.54,Default,,0,0,0,,(Ume'nin Ablası, Matsu Mizunoe)\NÖzür dilerim, seni korkuttum mu?
+Dialogue: 0,0:17:26.70,0:17:29.83,Default,,0,0,0,,İş için bir süreliğine Japonya'ya dönmem gerekti,
+Dialogue: 0,0:17:29.83,0:17:33.87,Default,,0,0,0,,ben de önce benim canım küçük kardeşimi\Nbaziyaret edeyim dedim.
+Dialogue: 0,0:17:34.37,0:17:35.25,Default,,0,0,0,,Anlıyorum.
+Dialogue: 0,0:17:35.25,0:17:36.75,Default,,0,0,0,,Bana en azından haber verebilirdin!
+Dialogue: 0,0:17:36.75,0:17:40.66,Default,,0,0,0,,Bu oldukça büyük bir iş.
+Dialogue: 0,0:17:40.91,0:17:44.91,Default,,0,0,0,,Bu sefer gerçekten elimden gelenin en iyisini yapıyorum.
+Dialogue: 0,0:17:46.29,0:17:48.79,Default,,0,0,0,,Beni övmeyecek misin?
+Dialogue: 0,0:17:48.79,0:17:51.37,Default,,0,0,0,,İyi de, bunu bana böyle aniden söyleyemezsin ki...
+Dialogue: 0,0:17:51.66,0:17:52.66,Default,,0,0,0,,Her neyse,
+Dialogue: 0,0:17:52.66,0:17:55.20,Default,,0,0,0,,neden hâlâ iç çamaşırımı tutuyorsun?
+Dialogue: 0,0:17:56.00,0:18:00.16,Default,,0,0,0,,Kendi başının çaresine bakıp \Nbakamadığını kontrol ediyorum.
+Dialogue: 0,0:18:00.16,0:18:02.04,Default,,0,0,0,,Çamaşırlarından başlayarak!
+Dialogue: 0,0:18:02.04,0:18:03.37,Default,,0,0,0,,Lütfen yapma.
+Dialogue: 0,0:18:03.37,0:18:06.20,Default,,0,0,0,,Yapma, artık küçük bir çocuk değilim!
+Dialogue: 0,0:18:06.75,0:18:08.00,Default,,0,0,0,,Özür dilerim!
+Dialogue: 0,0:18:08.41,0:18:11.66,Default,,0,0,0,,Benim tatlı küçük kardeşim \Niçin endişeleniyorum.
+Dialogue: 0,0:18:13.70,0:18:16.37,Default,,0,0,0,,İşte bu yüzden evlenemiyorum!
+Dialogue: 0,0:18:16.37,0:18:17.66,Default,,0,0,0,,Hayır, işte sen asıl bu yüzden evlenemiyorsun.
+Dialogue: 0,0:18:17.66,0:18:18.79,Default,,0,0,0,,Onu geri ver!
+Dialogue: 0,0:18:19.54,0:18:20.91,Default,,0,0,0,,Ama Ume,
+Dialogue: 0,0:18:20.91,0:18:23.50,Default,,0,0,0,,bir şekilde farklı görünüyorsun.
+Dialogue: 0,0:18:24.37,0:18:25.87,Default,,0,0,0,,Nasıl yani?
+Dialogue: 0,0:18:25.87,0:18:26.91,Default,,0,0,0,,İşte bu!
+Dialogue: 0,0:18:27.25,0:18:30.62,Default,,0,0,0,,Kızlar arasında daha popüler gibisin!
+Dialogue: 0,0:18:30.62,0:18:32.50,Default,,0,0,0,,Tüm bu konuşmalar buraya mı varacaktı?!
+Dialogue: 0,0:18:32.50,0:18:34.70,Default,,0,0,0,,Bekle, Abla, sakın bana deme ki...
+Dialogue: 0,0:18:34.70,0:18:35.79,Default,,0,0,0,,Evet!
+Dialogue: 0,0:18:36.37,0:18:38.91,Default,,0,0,0,,Senin LONE hesabını hackledim
+Dialogue: 0,0:18:39.12,0:18:41.00,Default,,0,0,0,,ve bütün kızları engelledim!
+Dialogue: 0,0:18:41.00,0:18:43.87,Default,,0,0,0,,Bunu yapmayı kes! Hep bu numaraları yapıyorsun!
+Dialogue: 0,0:18:43.87,0:18:46.95,Default,,0,0,0,,Benim küçük Ume'min hayatında artık kadınlar var!
+Dialogue: 0,0:18:46.95,0:18:48.62,Default,,0,0,0,,Kendimi çok yalnız hissediyorum...
+Dialogue: 0,0:18:48.62,0:18:51.08,Default,,0,0,0,,Yine başladı, kendini kaptırıyor...
+Dialogue: 0,0:18:51.08,0:18:55.33,Default,,0,0,0,,Hiç arkadaşının olmadığı\Nama iyiymişsin gibi davrandığın günleri özlüyorum!
+Dialogue: 0,0:18:55.33,0:18:57.66,Default,,0,0,0,,Bunun cidden çok kırıcı bir laf \Nolduğunu biliyorsun, değil mi?
+Dialogue: 0,0:18:51.08,0:18:55.33,Default,,0,0,0,,Benimle Amerika'da yaşamaya gelmek ister misin?
+Dialogue: 0,0:19:01.33,0:19:03.50,Default,,0,0,0,,Şu kızları falan boş ver gitsin.
+Dialogue: 0,0:19:03.50,0:19:05.29,Default,,0,0,0,,Sen neden bahsediyorsun ya?!
+Dialogue: 0,0:19:05.62,0:19:07.00,Default,,0,0,0,,Merhaba!
+Dialogue: 0,0:19:08.25,0:19:09.29,Default,,0,0,0,,Ume!
+Dialogue: 0,0:19:09.29,0:19:10.79,Default,,0,0,0,,Selam!
+Dialogue: 0,0:19:11.29,0:19:13.29,Default,,0,0,0,,Sizi buraya getiren nedir?
+Dialogue: 0,0:19:13.29,0:19:14.50,Default,,0,0,0,,Böyle çat kapı geldiğimiz için kusura bakma.
+Dialogue: 0,0:19:14.50,0:19:16.54,Default,,0,0,0,,Dışarıda buluşmak istedik,
+Dialogue: 0,0:19:16.54,0:19:18.45,Default,,0,0,0,,ama sana bir türlü ulaşamadık.
+Dialogue: 0,0:19:18.45,0:19:20.29,Default,,0,0,0,,Hadi, Komaro!
+Dialogue: 0,0:19:20.79,0:19:23.45,Default,,0,0,0,,Bu keki ev ekonomisi dersinde yaptım.
+Dialogue: 0,0:19:23.95,0:19:27.20,Default,,0,0,0,,Sana vermek istedi\Nama bir türlü cesaretini toplayamadı.
+Dialogue: 0,0:19:27.20,0:19:28.62,Default,,0,0,0,,Gerçekten çok güzel oldu.
+Dialogue: 0,0:19:28.62,0:19:30.87,Default,,0,0,0,,Gerçekten mi?
+Dialogue: 0,0:19:32.58,0:19:33.79,Default,,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:19:37.54,0:19:38.75,Default,,0,0,0,,(Dışarı Bakar)\NDemek sensin.
+Dialogue: 0,0:19:38.75,0:19:40.62,Default,,0,0,0,,Ona bir hedefmiş gibi davranmayı bırak!
+Dialogue: 0,0:19:40.62,0:19:43.25,Default,,0,0,0,,O da kim?
+Dialogue: 0,0:19:43.25,0:19:44.41,Default,,0,0,0,,O...
+Dialogue: 0,0:19:44.41,0:19:45.79,Default,,0,0,0,,Merhaba kızlar!
+Dialogue: 0,0:19:45.79,0:19:49.91,Default,,0,0,0,,Ben Matsu Mizunoe, Ume'nin ablası\Nve onu en çok seven kişiyim!
+Dialogue: 0,0:19:49.91,0:19:51.41,Default,,0,0,0,,Yapma şunu! Beni utandırıyorsun!
+Dialogue: 0,0:19:51.41,0:19:52.29,Default,,0,0,0,,Aman Tanrım!
+Dialogue: 0,0:19:52.29,0:19:56.00,Default,,0,0,0,,Ben Terui, Ume'den üst sınıfım,\Nve ben de ona bayılıyorum.
+Dialogue: 0,0:19:56.00,0:19:57.75,Default,,0,0,0,,Ona ayak uydurmak zorunda değilsin!
+Dialogue: 0,0:19:57.75,0:20:00.04,Default,,0,0,0,,Ben Komaro. \NBen Ume'yi seviyorum.
+Dialogue: 0,0:20:00.04,0:20:01.33,Default,,0,0,0,,Direkt konuya mı giriyorsun?!
+Dialogue: 0,0:20:01.33,0:20:03.29,Default,,0,0,0,,Bu oldukça iddialı bir söylem...
+Dialogue: 0,0:20:03.29,0:20:05.66,Default,,0,0,0,,Hayır, bunlar sadece kibar selamlaşmalar!
+Dialogue: 0,0:20:05.66,0:20:09.66,Default,,0,0,0,,Peki Ume hakkında ne kadar şey biliyorsunuz?
+Dialogue: 0,0:20:10.45,0:20:12.79,Default,,0,0,0,,Ben onun hakkında her şeyi biliyorum.
+Dialogue: 0,0:20:12.79,0:20:16.08,Default,,0,0,0,,On yıl önceki pipisinin boyundan tutun da
+Dialogue: 0,0:20:16.08,0:20:19.12,Default,,0,0,0,,yan hesabının şifresine kadar!
+Dialogue: 0,0:20:19.83,0:20:22.45,Default,,0,0,0,,Şu an ne kadar büyük olduğunu ben biliyorum.
+Dialogue: 0,0:20:22.83,0:20:24.29,Default,,0,0,0,,Kocaman.
+Dialogue: 0,0:20:24.95,0:20:26.83,Default,,0,0,0,,Üzerine oturduğumda...
+Dialogue: 0,0:20:26.83,0:20:29.29,Default,,0,0,0,,Görünüşe göre Ume hakkında pek çok şey biliyorsunuz.
+Dialogue: 0,0:20:29.83,0:20:30.79,Default,,0,0,0,,Kocaman...
+Dialogue: 0,0:20:30.79,0:20:31.75,Default,,0,0,0,,Hayır, o düşündüğünüz şey değil!
+Dialogue: 0,0:20:31.75,0:20:34.00,Default,,0,0,0,,Üstelik o bilgi tamamen gereksiz!
+Dialogue: 0,0:20:34.00,0:20:37.37,Default,,0,0,0,,Ama bu sadece dış yüzü.
+Dialogue: 0,0:20:37.37,0:20:40.33,Default,,0,0,0,,Ume'nin gerçekte kim olduğunu biliyor musunuz?
+Dialogue: 0,0:20:40.91,0:20:44.04,Default,,0,0,0,,Örneğin, çok çabuk yalnız hisseder.
+Dialogue: 0,0:20:44.04,0:20:46.33,Default,,0,0,0,,Eskiden hiç arkadaş edinemediği zamanlarda,
+Dialogue: 0,0:20:46.33,0:20:48.62,Default,,0,0,0,,göğsümü ve kıyafetlerimi gözyaşlarıyla sırılsıklam ederdi...
+Dialogue: 0,0:20:49.41,0:20:51.54,Default,,0,0,0,,Yalnız kaldığında gerçekten de hep hüzünlü görünüyor,
+Dialogue: 0,0:20:51.54,0:20:53.83,Default,,0,0,0,,kapıya bakıp dalıyor.
+Dialogue: 0,0:20:53.83,0:20:55.50,Default,,0,0,0,,Bu da çok tatlı.
+Dialogue: 0,0:20:55.50,0:20:57.04,Default,,0,0,0,,Gerçekten mi?
+Dialogue: 0,0:20:57.04,0:20:58.75,Default,,0,0,0,,Bunu nereden biliyorsunuz?
+Dialogue: 0,0:21:03.83,0:21:06.58,Default,,0,0,0,,Siz kızlar harikasınız!
+Dialogue: 0,0:21:06.58,0:21:09.83,Default,,0,0,0,,Yok canım. Biz senin hikayelerini çok sevdik!
+Dialogue: 0,0:21:10.04,0:21:12.87,Default,,0,0,0,,Ume hakkında konuşurken gerçekten de iyi anlaştılar.
+Dialogue: 0,0:21:13.20,0:21:16.12,Default,,0,0,0,,Bizim artık kalkmamız lazım.
+Dialogue: 0,0:21:16.12,0:21:18.16,Default,,0,0,0,,Neredeyse akşam yemeği vakti geldi.
+Dialogue: 0,0:21:18.16,0:21:20.54,Default,,0,0,0,,Anlıyorum... Ne yazık.
+Dialogue: 0,0:21:20.54,0:21:22.33,Default,,0,0,0,,Ume, onları geçiriver.
+Dialogue: 0,0:21:22.33,0:21:24.33,Default,,0,0,0,,Sonunda, kurtuldum...
+Dialogue: 0,0:21:24.33,0:21:27.54,Default,,0,0,0,,Yarın okulda onların yüzüne\Nnasıl bakacağım?
+Dialogue: 0,0:21:27.54,0:21:28.66,Default,,0,0,0,,Ah!
+Dialogue: 0,0:21:29.37,0:21:31.62,Default,,0,0,0,,- Kek güzel miydi?\N- Evet, çok güzeldi.
+Dialogue: 0,0:21:31.62,0:21:32.70,Default,,0,0,0,,Ume!
+Dialogue: 0,0:21:34.58,0:21:36.04,Default,,0,0,0,,Buna sevindim.
+Dialogue: 0,0:21:41.37,0:21:42.66,Default,,0,0,0,,Kesin şunu!
+Dialogue: 0,0:21:43.66,0:21:45.00,Default,,0,0,0,,Bu çok utanç verici!
+Dialogue: 0,0:21:54.41,0:21:56.00,Default,,0,0,0,,Çok inatçısın.
+Dialogue: 0,0:21:58.83,0:21:59.91,Default,,0,0,0,,O gün,
+Dialogue: 0,0:22:00.16,0:22:02.79,Default,,0,0,0,,Mizunoe'nin tüm iç çamaşırları ortadan kayboldu.
+Dialogue: 0,0:22:02.79,0:22:03.83,Default,,0,0,0,,(Görüşmek Üzere!)\NHoşça kalın!
+Dialogue: 0,0:23:35.00,0:23:36.00,Default,,0,0,0,,(Öğrenci Konseyinin Bile Açıkları Var!)\N(Gelecek Bölüm Fragmanı)
+Dialogue: 0,0:23:36.00,0:23:38.00,Default,,0,0,0,,(Komaro ve Dilek Kutusu) (Terui'nin Sırrı♪)
+Dialogue: 0,0:23:38.00,0:23:40.00,Default,,0,0,0,,(Koki ve Hafif Müzik Kulübü)\N(Spor Salonu Deposunda Randevu!!)
